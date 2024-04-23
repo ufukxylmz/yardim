@@ -1,1 +1,1 @@
-# yardim
+# Github-Yardim.
